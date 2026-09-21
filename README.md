@@ -232,6 +232,8 @@ CybersecurityTools/
 │
 ├── CybersecurityTools.bat
 └── README.md
+└── LICENSE
+
 ```
 
 You can rename the `.bat` file to any name you prefer.
