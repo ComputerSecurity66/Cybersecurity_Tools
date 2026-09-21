@@ -232,7 +232,7 @@ CybersecurityTools/
 │
 ├── CybersecurityTools.bat
 └── README.md
-└── LICENSE
+└── LICENSE.md
 
 ```
 
