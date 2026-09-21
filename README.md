@@ -228,7 +228,7 @@ Enter your option number:
 # 📁 Project Structure
 
 ```text
-Malware-Analysis-Network-Security-Toolkit/
+CybersecurityTools/
 │
 ├── CybersecurityTools.bat
 └── README.md
